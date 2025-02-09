@@ -1,0 +1,39 @@
+
+body {
+    background-image: url('../images/clouds.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 6em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: orangered;
+    text-align: center;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: blue;
+}
+
+nav {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+nav button {
+    font-size: 1.5em;
+    border-color: orangered;
+    background-color: blue;
+    color: white;
+    margin: 1em;
+}
+
+div {
+    font-size: 3em;
+    color: black;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: brown;
+    text-align: center;
+    padding-top: 2em;
+}
+
